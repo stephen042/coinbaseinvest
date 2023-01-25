@@ -48,7 +48,7 @@
                                 <div class="wt-separator-outer"><div class="wt-separator bg-primary"></div></div>
                                 <p><strong>Bitcoin is the world's first advanced decentralized cash and installment organize. Nullam non magna in diam ultricies hendrerit at nec ligula. </strong></p>
                                 <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the .
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the !!.
                                 </p>
                             </div>
                         </div>
